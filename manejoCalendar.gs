@@ -26,11 +26,7 @@ function creaEventoCalendarioTrabajador(titulo, fechaI, fechaF, horas, dias, loc
             colorId: 1
         }
     );
-
-
 }
-
-
 
 function creaEventoCalendario(titulo, fechaI, fechaF, horas, dias, localizacion, descripcion) {
 
